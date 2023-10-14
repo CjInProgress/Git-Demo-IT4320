@@ -1,6 +1,6 @@
 # Git Demo - Cj Harris 
 
-Hello, I'm actually learning Git
+Hello, I'm actually learning Git!!!!!!!!
 
 Gonna learn some cool stuff
 
@@ -9,3 +9,6 @@ Gonna learn some cool stuff
 - git push
 - git clone
 - git push
+
+## Cool Stuff
+We are now learning branching!
